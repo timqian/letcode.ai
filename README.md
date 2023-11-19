@@ -2,6 +2,8 @@
 
 ## Experiment 1: Auto solve leetcode problems and submit
 
+Blogs: [EN](https://timqian.com/blog/one-year-indie-hacker.html) / [中文](https://blog.t9t.io/leetcode-gpt-4-2023-11-20/)
+
 https://github.com/timqian/letcode.ai/assets/5512552/114b6c26-5f14-4924-a1ad-2d69984d1181
 
 1. Open Chrome in remote debug mode:
@@ -18,5 +20,3 @@ https://github.com/timqian/letcode.ai/assets/5512552/114b6c26-5f14-4924-a1ad-2d6
     node agent/leecode.mjs
     ```
 
-
-**Blog:** **Blog in Chinese:** 
