@@ -1,11 +1,8 @@
-[Tim](https://github.com/timqian)'s experiments to ask AI to help coding.
+> [Tim](https://github.com/timqian)'s experiments to ask AI to help coding.
 
 ## Experiment 1: Auto solve leetcode problems and submit
 
-<iframe 
-  style="width: 640px; height: 430px; max-width: 100%"
-  src="https://player.bilibili.com/player.html?bvid=BV1L94y1H78U" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
+![](https://github.com/timqian/letcode.ai/assets/5512552/114b6c26-5f14-4924-a1ad-2d69984d1181)
 
 1. Open Chrome in remote debug mode:
     ```bash
@@ -22,5 +19,4 @@
     ```
 
 
-**Blog:** 
-**Blog in Chinese:** 
+**Blog:** **Blog in Chinese:** 
