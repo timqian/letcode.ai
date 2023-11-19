@@ -6,6 +6,7 @@ Blogs: [EN](https://timqian.com/blog/one-year-indie-hacker.html) / [中文](http
 
 https://github.com/timqian/letcode.ai/assets/5512552/114b6c26-5f14-4924-a1ad-2d69984d1181
 
+### How to play with the script
 1. Open Chrome in remote debug mode:
     ```bash
     # on macOS
